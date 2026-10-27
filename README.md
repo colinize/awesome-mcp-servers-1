@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-464-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-465-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -49,7 +49,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (24)
 - [Communication and Productivity](#communication-and-productivity) (55)
 - [AI, Agents, and Memory](#ai-agents-and-memory) (54)
-- [Data, Analytics, and BI](#data-analytics-and-bi) (49)
+- [Data, Analytics, and BI](#data-analytics-and-bi) (50)
 - [Legal and Court Data](#legal-and-court-data) (6)
 - [Security and Identity](#security-and-identity) (25)
 - [Finance, Commerce, and Business Apps](#finance-commerce-and-business-apps) (88)
@@ -723,6 +723,8 @@ Analytics platforms, monitoring, and business intelligence tooling.
   `session-replay` `heatmaps` `web-analytics` `debugging`
 - **[Invokely](https://invokely.ai/docs)** `Official` `Other` — Query source-cited official statistics by indicator, place and period; retrieve values and time series, compare places, and rank regions. No-account MCP trial allows 25 calls per IP per day.  
   `official-statistics` `public-data` `time-series` `source-citations` `remote`
+- **[Kineticist](https://github.com/colinize/kineticist-mcp)** `Official` `TypeScript` — Pinball news, games and editions, designers, places to play and the Hype Index from Kineticist, with a free hosted endpoint and a local npm package.  
+  `pinball` `games` `news` `remote`
 - **[LLM Pulse MCP Server](https://github.com/LLM-Pulse/llmpulse-mcp)** `JavaScript` — Analyze AI search visibility, citations, sentiment, share of voice, and AI traffic.  
   `ai-visibility` `analytics` `marketing`
 - **[LogNorm](https://github.com/lognorm/lognorm-mcp)** `Official` `Other` — Hosted MCP server that hands a site's SEO/GEO growth backlog (audits, fixes, content, AI-visibility tracking) to Claude Code, Codex and Cursor via OAuth.  

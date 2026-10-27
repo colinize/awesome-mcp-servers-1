@@ -3879,6 +3879,24 @@
     }
   },
   {
+    "name": "Kineticist",
+    "url": "https://github.com/colinize/kineticist-mcp",
+    "description": "Pinball news, games and editions, designers, places to play and the Hype Index from Kineticist, with a free hosted endpoint and a local npm package.",
+    "category": "data-analytics-and-bi",
+    "language": "TypeScript",
+    "provider": "Kineticist",
+    "tags": [
+      "pinball",
+      "games",
+      "news",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://www.kineticist.com/api/mcp"
+    }
+  },
+  {
     "name": "Stivio",
     "url": "https://stivio.ai/mcp",
     "description": "AI image-to-video generator MCP server. Turn any image into a 5-second video with plain-language motion prompts.",
